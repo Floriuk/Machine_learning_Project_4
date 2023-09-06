@@ -19,7 +19,7 @@ As part of the EDA, we explored the relationships between each pair of component
 ## Model Building and Evaluation
 We experimented with three different machine learning models:
 - Logistic Regression: Provided a balanced accuracy score of around 70%. It served as our baseline model.
-- Neural Network: Built using TensorFlow, the neural network consisted of four hidden layers with 100 units each and used the 'relu' activation function. The output layer used a 'sigmoid' activation function for binary classification. The model achieved an accuracy of approximately 85%.
+- Neural Network: Built using TensorFlow, the neural network consisted of three hidden layers and used the 'relu' activation function. The output layer used a 'sigmoid' activation function for binary classification. The model achieved an accuracy of approximately 85%.
 - Random Forest Classifier: Achieved an accuracy of 80% and a balanced accuracy score of 0.802. It performed well in terms of both precision and recall.
 
 ## Conclusion
